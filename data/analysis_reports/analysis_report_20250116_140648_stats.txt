@@ -1,0 +1,6 @@
+Basketball Movement Analysis Statistics
+=====================================
+
+Average Elbow Angle: 50.67 degrees
+Maximum Jump Height: 14.42
+Average Knee Angle: 139.46 degrees
